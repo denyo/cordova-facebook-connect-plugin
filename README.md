@@ -2,7 +2,7 @@
 
 ## Use the phonegap-facebook-connect-plugin in Browser based development.  
 
-[![Build Status](https://travis-ci.org/patnolanireland/cordova-facebook-connect-plugin.svg)](https://travis-ci.org/patnolanireland/cordova-facebook-connect-plugin) ![Bower](https://img.shields.io/badge/bower-angular--moment--module-blue.svg)
+[![Build Status](https://travis-ci.org/patnolanireland/cordova-facebook-connect-plugin.svg)](https://travis-ci.org/patnolanireland/cordova-facebook-connect-plugin) ![Bower](https://img.shields.io/badge/bower-cordova--facebook--connect--plugin-blue.svg)
 ---
 
 ##Overview
